@@ -1,0 +1,9 @@
+2026-02-28T20:51:21.035746Z | customer_id=CUST-001 | action=cancel_care_plus
+2026-03-01T01:25:04.550554Z | customer_id=CUST_001 | action=cancel_care_plus
+2026-03-02T18:27:53.886611Z | customer_id=CUST_001 | action=cancel_care_plus
+2026-03-02T18:39:52.469794Z | customer_id=CUST_001 | action=cancel_care_plus
+2026-03-02T18:50:19.319189Z | customer_id=CUST_001 | action=cancel_care_plus
+2026-03-02T19:20:28.887234Z | customer_id=CUST_001 | action=cancel_care_plus
+2026-03-02T19:30:26.096857Z | customer_id=CUST_001 | action=cancel_care_plus
+2026-03-02T19:47:12.487428Z | customer_id=CUST_001 | action=cancel_care_plus
+2026-03-02T19:49:44.728573Z | customer_id=CUST_001 | action=cancel_care_plus
